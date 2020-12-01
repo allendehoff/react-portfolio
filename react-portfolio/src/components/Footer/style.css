@@ -1,0 +1,6 @@
+.footer-container {
+    justify-content: space-evenly;
+    text-align: center;
+    align-content: space-between;
+    display: flex;
+}
