@@ -16,7 +16,7 @@ function PortfolioCard(props) {
                 </Card.Text>
             </Card.Body>
             <Card.Footer>
-                <a href={props.github}>GitHub</a>
+                <a target="_blank" href={props.github}>GitHub</a>
             </Card.Footer>
         </Card>
     )

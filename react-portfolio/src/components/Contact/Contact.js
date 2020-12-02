@@ -13,7 +13,7 @@ function Contact () {
             <form>
                 <div className="form-group">
                     <label>Name</label>
-                    <textarea className="form-control" id="InputName" rows="3"></textarea>
+                    <input className="form-control" id="InputName" rows="3"/>
                 </div>
                 <div className="form-group">
                     <label>Email address</label>
