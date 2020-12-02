@@ -1,0 +1,17 @@
+.cardImage {
+    /* height: auto; */
+    max-height: 150px;
+    width: 100%;
+    object-fit: cover;
+    /* border: 2px solid black; */
+}
+
+.card-deck {
+    /* justify-content: center; */
+    align-items: center;
+    align-items: stretch;
+}
+
+.card {
+    border: 1px solid black;
+}
