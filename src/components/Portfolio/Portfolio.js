@@ -20,18 +20,21 @@ function Portfolio() {
                 name="Critter Sitter"
                 text="This application allows a pet owner and pet sitter easily communicate about the status of the pet and updates regarding the owner's trip."
                 github="https://github.com/allendehoff/Critter-Sitter"
+                link="https://critter-sitter2020.herokuapp.com/"
                 />
                 <Card
                 img={TripPlannerPic}
                 name="Trip Planner"
                 text="This Application helps a user to plan a road trip including directions to their destination, local hotels, and restaurants near their hotel."
                 github="https://github.com/allendehoff/Project1"
+                link="https://allendehoff.github.io/Trip-Planner/"
                 />
                 <Card
                 img={BurgerRestaurantPic}
                 name="Burger Restaurant"
                 text="This Application allows a user to enter names of burgers they want to eat and mark them as eaten."
                 github="https://github.com/allendehoff/Burger-Restaurant"
+                linke="https://burger-eater-2020.herokuapp.com/"
                 />
             </CardDeck>
         </div>

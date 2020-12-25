@@ -17,6 +17,7 @@ function PortfolioCard(props) {
             </Card.Body>
             <Card.Footer>
                 <a href={props.github}>GitHub</a>
+                <a href={props.link}>Deployed Application</a>
             </Card.Footer>
         </Card>
     )
