@@ -34,7 +34,7 @@ function Portfolio() {
                 name="Burger Restaurant"
                 text="This Application allows a user to enter names of burgers they want to eat and mark them as eaten."
                 github="https://github.com/allendehoff/Burger-Restaurant"
-                linke="https://burger-eater-2020.herokuapp.com/"
+                link="https://burger-eater-2020.herokuapp.com/"
                 />
             </CardDeck>
         </div>
