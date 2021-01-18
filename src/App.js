@@ -20,9 +20,9 @@ function App() {
           <Route path={"/portfolio"}>
             <Portfolio/>
           </Route>
-          <Route path={"/contact"}>
+          {/* <Route path={"/contact"}>
             <Contact/>
-          </Route>
+          </Route> */}
         </Switch>
         <Footer/>
       </div>

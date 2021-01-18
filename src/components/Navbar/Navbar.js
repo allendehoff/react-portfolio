@@ -11,7 +11,7 @@ function Nav() {
                 <div className="navbar-nav ml-md-auto">
                     <a className="nav-item nav-link" href="/">About Me</a>
                     <a className="nav-item nav-link" href="/portfolio">Portfolio</a>
-                    <a className="nav-item nav-link" href="/contact">Contact</a>
+                    {/* <a className="nav-item nav-link" href="/contact">Contact</a> */}
                 </div>
             </div>
         </header>
